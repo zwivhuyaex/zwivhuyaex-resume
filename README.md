@@ -1,8 +1,8 @@
-# Zwivhuyaex CV - The Perfect CV, Made Easy
+# Zwivhuyaex Resume - Professional CV Builder
 
-Zwivhuyaex CV is an ultramodern, AI-powered resume builder and optimizer designed to help professionals land their dream jobs. By leveraging Google's Genkit and Gemini AI, the platform extracts information from existing documents, revamps content for professional impact, and optimizes resumes for specific job descriptions.
+Zwivhuyaex Resume is an ultramodern, AI-powered resume builder and optimizer designed to help professionals land their dream jobs. By leveraging Google's Genkit and Gemini AI, the platform extracts information from existing documents, revamps content for professional impact, and optimizes resumes for specific job descriptions.
 
-## 🚀 Key Features.
+## 🚀 Key Features
 
 - **AI-Powered Extraction**: Upload PDF, DOCX, or TXT resumes and let AI structure your data.
 - **Content Revamping**: Automatically rewrite summaries and responsibilities to be more impactful and professional.
@@ -52,10 +52,13 @@ GOOGLE_GENAI_API_KEY=your_gemini_api_key
 
 1. Clone the repository.
 2. Install dependencies:
+
    ```bash
    npm install
    ```
+
 3. Run the development server:
+
    ```bash
    npm run dev
    ```
